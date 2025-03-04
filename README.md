@@ -37,6 +37,7 @@ The insights gained will empower the following stakeholders to make informed str
 - Source: The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
 - Data Structure:
   There are 5 tables that we will work on it.
+  
    Table                | Type                                                                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Fact_Product         | Details of product sold or used in production.                                                                            |
