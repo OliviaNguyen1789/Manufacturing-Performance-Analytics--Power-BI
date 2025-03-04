@@ -41,9 +41,9 @@ The insights gained will empower the following stakeholders to make informed str
 | Table                | Type                                                                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Fact_Product         | Details of product sold or used in production.                                                                            |
-| Fact_Workorder       | Details of orders for each product ID, quantity of scrapped products, due date, end date, start date of each order.       |
+| Fact_Workorder       | Contains order details, including product ID, quantity of scrapped products, due date, start date, and end date.          |
 | Dim_ScrapReason      | Reason for scrapped products.                                                                                             |
-| Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.. |
+| Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.  |
 | Dim_Location         | Lists each stage in the production process.                                                                               |
 
 
