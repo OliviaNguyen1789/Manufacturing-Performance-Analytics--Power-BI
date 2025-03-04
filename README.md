@@ -54,14 +54,16 @@ The insights gained will empower the following stakeholders to make informed str
 
 
 ## III. Design Thinking Process
-Explain the step-by-step approach taken to solve the problem.
 
-👉🏻 Insert a screenshot of the Design Thinking steps (Screenshot your Excel design thinking tables for better presentation).
+### 1. Empathize
 
-1️⃣ Empathize
-2️⃣ Define point of view
-3️⃣ Ideate
-4️⃣ Prototype and review
+<img width="1008" alt="Screen Shot 2025-03-05 at 11 08 14 AM" src="https://github.com/user-attachments/assets/3b9bdd1a-2650-4643-9c88-a2950659d6f0" />
+
+### 2. Define point of view
+
+### 3. Ideate
+
+### 4. Prototype and review
 
 
 
