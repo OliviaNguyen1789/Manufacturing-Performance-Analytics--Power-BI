@@ -37,16 +37,6 @@ The insights gained will empower the following stakeholders to make informed str
 - Source: The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
 - Data Structure:
   There are 5 tables that we will work on it.
-  
-   Table                | Type                                                                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Fact_Product         | Details of product sold or used in production.                                                                            |
-| Fact_Workorder       | Details of orders for each product ID, quantity of scrapped products, due date, end date, start date of each order.       |
-| Dim_ScrapReason      | Reason for scrapped products.                                                                                             |
-| Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.. |
-| Dim_Location         | Lists each stage in the production process.                                                                               |
-
-
 
 | Table                | Type                                                                                                                      |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -55,7 +45,6 @@ The insights gained will empower the following stakeholders to make informed str
 | Dim_ScrapReason      | Reason for scrapped products.                                                                                             |
 | Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.. |
 | Dim_Location         | Lists each stage in the production process.                                                                               |
-
 
 
 -  Data relationships: (bổ sung data modelling)
