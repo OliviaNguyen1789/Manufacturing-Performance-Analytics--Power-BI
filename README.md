@@ -15,14 +15,38 @@ IV. [Final Conclusion & Recommendations](#iv-final-conclusion--recommendations)
 
 ## I. Introduction
 
-This project explores a Bicycle Manufacturer dataset using advanced SQL techniques in Google BigQuery, including sliding windows, common table expressions (CTEs), and date-time manipulation. 
+Based on the AdventureWorks database, this project analyzes the manufacturing process of a bicycle manufacturer using Power BI.
+### The objective:
+- Ensure products are delivered on time.
+- Minimize scrapped products.
+  
+### Stakeholders: 
+The insights gained will empower the following stakeholders to make informed strategic decisions and enhance overall business operations:
+- Data analysts & business analysts
+- Production managers
+- Decision-makers & executives
 
-The analysis focuses on sales performance across subcategories and territories, inventory management, and customer retention. The insights gained will empower stakeholders to make informed strategic decisions and enhance overall business operations.
+### Business Questions:
+- Which products are frequently delivered late?
+- Why does the company fail to deliver these products on time?
+- What strategies can be implemented to minimize scrapped products?
+
 
 ## II. Dataset Description
 
 - Source: The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
-- Data Structure: (bổ sung schema trong power BI)
+- Data Structure:
+  There are 5 tables that we will work on it.
+   Table                | Type                                                                                                                      |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Fact_Product         | Details of product sold or used in production.                                                                            |
+| Fact_Workorder       | Details of orders for each product ID, quantity of scrapped products, due date, end date, start date of each order.       |
+| Dim_ScrapReason      | Reason for scrapped products.                                                                                             |
+| Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.. |
+| Dim_Location         | Lists each stage in the production process.                                                                               |
+
+
+-  Data relationships: (bổ sung data modelling)
 
 
 
