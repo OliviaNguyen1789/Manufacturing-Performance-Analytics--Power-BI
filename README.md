@@ -11,8 +11,8 @@ Tools Used: Power BI
 I. [Introduction](#i-introduction)  
 II. [Dataset Description](#ii-dataset-description)  
 III.[Design Thinking Process](#iii-design-thinking-process)  
-IV.[Power BI Visualization](#vi-power-bi-visualization)  
-V. [Final Conclusion & Recommendations](#iv-final-conclusion--recommendations)
+IV.[Power BI Visualization](#iv-power-bi-visualization)  
+V. [Final Conclusion & Recommendations](#v-final-conclusion--recommendations)
 
 ## I. Introduction
 
