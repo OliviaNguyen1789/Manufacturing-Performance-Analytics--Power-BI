@@ -74,7 +74,30 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 
 
 ## IV. Power BI Visualization
+### Dashboard 1 Preview
 
+<img width="1059" alt="Screen Shot 2025-03-05 at 2 09 01 PM" src="https://github.com/user-attachments/assets/edffcfd9-e0a5-43c1-9b07-bbc41b596d32" />
+
+Observation: Describe trends, key metrics, and patterns.
+Recommendation: Suggest actions based on insights.
+
+### Dashboard 2 Preview
+
+<img width="1066" alt="Screen Shot 2025-03-05 at 2 10 24 PM" src="https://github.com/user-attachments/assets/1e7ece2b-5a74-4499-a89b-467fa7e62efb" />
+
+### Dashboard 3 Preview
+
+<img width="1066" alt="Screen Shot 2025-03-05 at 2 10 57 PM" src="https://github.com/user-attachments/assets/27838d22-69e1-40e3-953f-0b69deb91c78" />
+
+### Dashboard 4 Preview
+<img width="1069" alt="Screen Shot 2025-03-05 at 2 11 20 PM" src="https://github.com/user-attachments/assets/a3396a14-914a-4193-8b76-31c4e674c9dc" />
+
+👉🏻 Insert Power BI dashboard screenshots here
+
+📌 Analysis 3:
+
+Observation: Describe trends, key metrics, and patterns.
+Recommendation: Suggest actions based on insights.
 
 ## V. Final Conclusion & Recommendations 
 
