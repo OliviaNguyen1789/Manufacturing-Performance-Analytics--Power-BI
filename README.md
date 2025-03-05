@@ -79,19 +79,26 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 <img width="1059" alt="Screen Shot 2025-03-05 at 2 09 01 PM" src="https://github.com/user-attachments/assets/edffcfd9-e0a5-43c1-9b07-bbc41b596d32" />
 
 **Scrap rate:**
-- 11 thousands scrap products over 5 millions ordered product (0.24%).
-- Scrap rate moves counter with the quantity of order, peaking in 2013.
+
+- Scrap Rate is Low (0.24%), indicating an efficient production process. However, even small percentages can be costly, especially if high-value products are affected.
+Next Steps: Instead of focusing on reducing overall scrap, prioritize the most expensive or most frequent defects (e.g., paint process issues).
+
+- Scrap Rate positively correlates with Order Quantity,peaking in 2013. 2013 peak could be linked to changes in production methods, materials, or workforce.
+Next Steps: Investigate 2013 data for anomalies (new suppliers, equipment issues, process changes).
+
 - The  most common reasons for scrap products is related to paint process.
 
+
 **Manufacturing Time:**
-- 25 thousands late work orders over 73 thousands work orders -->  Late ratio is really high (31.4%)
-- The Late ratio corresponds to the number of work orders.
+
+- High Late Ratio (31.4%): Over 1 in 3 work orders are late, suggesting systematic inefficiencies rather than isolated incidents.
+  
+- Late Orders Increase with Work Order Volume. When production demand rises, the system struggles to scale, leading to more late orders.
+
+Potential Causes: Poor production planning, material shortages, Overloaded production capacity—not enough machines or labor to meet demand, defects—scrap or quality issues causing delays Trend Analysis: Identify peak months or seasons with high delays.
+
 - Subassembly and final assembly are the two production stages that are most likely to be delayed.
-
-
-
-Observation: Describe trends, key metrics, and patterns.
-Recommendation: Suggest actions based on insights.
+  --> analyze: High scrap rates leading to rework and cascading delays.
 
 ### Dashboard 2 Preview
 
