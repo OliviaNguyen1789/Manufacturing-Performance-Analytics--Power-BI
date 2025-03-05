@@ -78,12 +78,27 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 
 <img width="1059" alt="Screen Shot 2025-03-05 at 2 09 01 PM" src="https://github.com/user-attachments/assets/edffcfd9-e0a5-43c1-9b07-bbc41b596d32" />
 
+**Scrap rate:**
+- 11 thousands scrap products over 5 millions ordered product (0.24%).
+- Scrap rate moves counter with the quantity of order, peaking in 2013.
+- The  most common reasons for scrap products is related to paint process.
+
+**Manufacturing Time:**
+- 25 thousands late work orders over 73 thousands work orders -->  Late ratio is really high (31.4%)
+- The Late ratio corresponds to the number of work orders.
+- Subassembly and final assembly are the two production stages that are most likely to be delayed.
+
+
+
 Observation: Describe trends, key metrics, and patterns.
 Recommendation: Suggest actions based on insights.
 
 ### Dashboard 2 Preview
 
 <img width="1066" alt="Screen Shot 2025-03-05 at 2 10 24 PM" src="https://github.com/user-attachments/assets/1e7ece2b-5a74-4499-a89b-467fa7e62efb" />
+
+
+The reasons for scrap products alters each year, 
 
 ### Dashboard 3 Preview
 
