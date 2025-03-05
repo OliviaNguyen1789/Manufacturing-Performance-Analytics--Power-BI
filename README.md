@@ -140,7 +140,7 @@ Possible Causes: Inefficient Resource Allocation, Delays in earlier production s
 The analysis has revealed some inefficiencies in manufacturing performance. The most critical problems are:
 
 - **High Scrap Rate in Q3:** Defects peak in July–September, with major issues in drilling, seat assembly, painting, and thermoforming.
--** Late Work Orders (31.4%):** caused by capacity constraints, inefficient scheduling, and delays in production start.
+- **Late Work Orders (31.4%):** caused by capacity constraints, inefficient scheduling, and delays in production start.
 - **Production time exceeds Scheduled time**: especially in March, May, August, and September, indicating seasonal workload strain.
 - **Mountain product group typically has the largest late delivery date:** Possibly due to complexity, high demand, or supply chain bottlenecks.
 - **Late delivery ratios are much higher for subassembly, final Subassembly stages, frame forming, and frame welding.** Reasons: capacity is much lower than actual manufacturing hours.
@@ -150,20 +150,20 @@ These issues directly impact manufacturing efficiency, delivery performance, and
 **Recommendations:**
 
 1. Optimize Production Scheduling & Capacity Utilization
-- Implement advanced scheduling algorithms & real-time capacity monitoring to prevent overloads.
-- Analyze nad balance workload vs. capacity to match demand.
+  - Implement advanced scheduling algorithms & real-time capacity monitoring to prevent overloads.
+  - Analyze and balance workload vs. capacity to match demand.
 
 2. Reduce Scrap & Improve Quality Control
-- Find out root causes of Scrap for each product to minimize defects.
-- Standardize work instructions & operator training to reduce human error.
-- Invest in modern technology.
+  - Find out root causes of Scrap for each product to minimize defects.
+  - Standardize work instructions & operator training to reduce human error.
+  - Invest in modern technology.
 
 3. Strengthen Supply Chain & Material Availability
-- Improve raw material forecasting & supplier reliability to prevent start delays.
+  - Improve raw material forecasting & supplier reliability to prevent start delays.
 
 4. Address Production Bottlenecks (Subassembly, Welding, Frame Forming)
-- Increase machine capacity → Invest in additional welding/forming equipment for high-demand stages.
-- Assign skilled operators to critical bottlenecks.
+  - Increase machine capacity → Invest in additional welding/forming equipment for high-demand stages.
+  - Assign skilled operators to critical bottlenecks.
 
 
 
