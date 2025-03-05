@@ -61,7 +61,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 2. Define point of view
 
-<img width="1395" alt="Screen Shot 2025-03-05 at 1 22 29 PM" src="https://github.com/user-attachments/assets/a1b51204-33a3-48fd-9e96-6f50830ccdd6" />
+<img width="1392" alt="Screen Shot 2025-03-05 at 1 26 08 PM" src="https://github.com/user-attachments/assets/94a855f0-af37-42c0-96a0-428b17bee0ba" />
 
 ### 3. Ideate
 
