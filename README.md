@@ -165,14 +165,3 @@ These issues directly impact manufacturing efficiency, delivery performance, and
   - Increase machine capacity → Invest in additional welding/forming equipment for high-demand stages.
   - Assign skilled operators to critical bottlenecks.
 
-
-
-
-
-
-
-
-
-
-   Im
-  
