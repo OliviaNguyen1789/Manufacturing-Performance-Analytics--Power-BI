@@ -11,7 +11,8 @@ Tools Used: Power BI
 I. [Introduction](#i-introduction)  
 II. [Dataset Description](#ii-dataset-description)  
 III.[Design Thinking Process](#iii-design-thinking-process)  
-IV. [Final Conclusion & Recommendations](#iv-final-conclusion--recommendations)
+IV.[Power BI Visualization](#vi-power-bi-visualization)  
+V. [Final Conclusion & Recommendations](#iv-final-conclusion--recommendations)
 
 ## I. Introduction
 
@@ -65,14 +66,17 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### 3. Ideate
 
-### 4. Prototype and review
+<img width="844" alt="Screen Shot 2025-03-05 at 1 59 59 PM" src="https://github.com/user-attachments/assets/1aef1909-7b90-4bae-9624-910c6b31aa4f" />
+
+
+Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
 
 
 
+## IV. Power BI Visualization
 
 
-
-## IV. Final Conclusion & Recommendations 
+## V. Final Conclusion & Recommendations 
 
 This analysis provides valuable insights into sales performance across products and regions, inventory management, and customer retention. It enables the bicycle manufacturer to identify strengths and weaknesses, allowing them to leverage their strengths and minimize weaknesses to enhance overall business performance.
 
