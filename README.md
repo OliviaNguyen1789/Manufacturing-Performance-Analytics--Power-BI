@@ -22,7 +22,7 @@ Based on the AdventureWorks database, this project analyzes the manufacturing pr
 - Minimize scrapped products.
   
 ### Stakeholders: 
-The insights gained will empower the following stakeholders to make informed strategic decisions and enhance overall business operations:
+The insights gained will empower the following stakeholders to make informed strategic decisions and enhance manufacturing operations:
 - Data analysts & business analysts
 - Production managers
 - Decision-makers & executives
