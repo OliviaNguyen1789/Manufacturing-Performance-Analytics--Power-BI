@@ -49,10 +49,8 @@ The insights gained will empower the following stakeholders to make informed str
 | Dim_Location         | Lists each stage in the production process.                                                                               |
 
 
--  Data relationships: (bổ sung data modelling)
-
-
-
+-  Data relationships:
+   ![Schema_manufacturing](https://github.com/user-attachments/assets/0208da0f-b6ce-4ff8-bd7a-19f3b930ed09)
 
 
 ## III. Design Thinking Process
@@ -77,7 +75,7 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 ## IV. Power BI Visualization
 ### Dashboard 1 Preview
 
-<img width="1059" alt="Screen Shot 2025-03-05 at 2 09 01 PM" src="https://github.com/user-attachments/assets/edffcfd9-e0a5-43c1-9b07-bbc41b596d32" />
+![BI_1](https://github.com/user-attachments/assets/f421e12c-e86a-4321-aa75-13f354863692)
 
 **Scrap rate:**
 
@@ -88,7 +86,6 @@ Next Steps: Instead of focusing on reducing overall scrap, prioritize the most e
 Next Steps: Investigate 2013 data for anomalies (new suppliers, equipment issues, process changes).
 
 - The  most common reasons for scrap products is related to paint process.
-
 
 **Manufacturing Time:**
 
@@ -103,7 +100,7 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 2 Preview
 
-<img width="1066" alt="Screen Shot 2025-03-05 at 2 10 24 PM" src="https://github.com/user-attachments/assets/1e7ece2b-5a74-4499-a89b-467fa7e62efb" />
+![BI_2](https://github.com/user-attachments/assets/5fc8c644-f852-4bbc-86b3-2b3d40849efd)
 
 - Scrap rate is especially high in the third quarter each year, suggesting seasonal factors affecting production quality.** (bổ sung do sản phẩm tăng)**
 Possible Causes: Workforce Changes, Production Surge
@@ -117,10 +114,12 @@ Possible Causes: Workforce Changes, Production Surge
 
 ### Dashboard 3 Preview
 
-<img width="1066" alt="Screen Shot 2025-03-05 at 2 10 57 PM" src="https://github.com/user-attachments/assets/27838d22-69e1-40e3-953f-0b69deb91c78" />
+![Bi_3](https://github.com/user-attachments/assets/15923f29-b236-4bca-a85b-fd9951735af5)
+
 
 ### Dashboard 4 Preview
-<img width="1069" alt="Screen Shot 2025-03-05 at 2 11 20 PM" src="https://github.com/user-attachments/assets/a3396a14-914a-4193-8b76-31c4e674c9dc" />
+
+![BI_4](https://github.com/user-attachments/assets/080491f6-5db9-4df1-a3a3-9c467651f69c)
 
 - Actual Production Time exceeds Scheduled Time. The gap is wider in March, May, August, and September, indicating inefficient planning, unexpected disruptions, or capacity constraints.
 
