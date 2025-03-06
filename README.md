@@ -82,8 +82,8 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 - Scrap Rate is Low (0.24%), indicating an efficient production process. However, even small percentages can be costly, especially if high-value products are affected.
 Next Steps: Instead of focusing on reducing overall scrap, prioritize the most expensive or most frequent defects (e.g., paint process issues).
 
-- Scrap Rate positively correlates with order quantity, peaking in 2013. 2013 peak could be linked to changes in production methods, materials, or workforce.
-Next Steps: Investigate 2013 data for anomalies (new suppliers, equipment issues, process changes).
+- Scrap rate is especially high in the third quarter each year, suggesting seasonal factors affecting production quality.** (bổ sung do sản phẩm tăng)**
+Possible Causes: Workforce Changes, Production Surge
 
 - The  most common reasons for scrap products is related to paint process.
 
@@ -102,7 +102,9 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ![BI_2](https://github.com/user-attachments/assets/5fc8c644-f852-4bbc-86b3-2b3d40849efd)
 
-- Scrap rate is especially high in the third quarter each year, suggesting seasonal factors affecting production quality.** (bổ sung do sản phẩm tăng)**
+
+- Scrap Rate positively correlates with order quantity, peaking in 2013. 2013 peak could be linked to changes in production methods, materials, or workforce.
+Next Steps: Investigate 2013 data for anomalies (new suppliers, equipment issues, process changes). - Scrap rate is especially high in the third quarter each year, suggesting seasonal factors affecting production quality.** (bổ sung do sản phẩm tăng)**
 Possible Causes: Workforce Changes, Production Surge
 
 - High-Volume Products (BB Ball Bearing, Seat Stays, Chain Stays, Blades) have low defect rates (** phải giải thích tại sao, còn các sản phẩm nào low quantity mà cao defect rate)**
