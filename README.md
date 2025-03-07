@@ -148,9 +148,9 @@ The analysis has revealed some inefficiencies in manufacturing performance. The 
 
 These issues directly impact manufacturing efficiency, delivery performance, and cost control, making them a priority for process improvement.
 
-**Recommendations:**
+### Recommendations:
 
-1.Reduce Scrap products and Scrap cost
+1. Reduce Scrap products and Scrap cost
    - Enhance color accuracy with better quality control and calibration tools to reduce cost of defects.
    - Increase capacity during peak months (July–September) with extra shifts or outsourcing.
    - Improve forecasting and scheduling to better manage seasonal demand.
