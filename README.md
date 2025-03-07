@@ -1,4 +1,4 @@
-# [Power BI] Manufacturing-Analytics
+# [Power BI] Manufacturing Performance Analytics
 
 
 Author: [Uyen Nguyen]  
