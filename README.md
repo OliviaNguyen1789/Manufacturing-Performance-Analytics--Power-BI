@@ -75,7 +75,7 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 
 ![BI_1 (1)](https://github.com/user-attachments/assets/5581579c-f6b2-46ec-8938-70fb8d87cb50)
 
-**Scrap rate:**
+**🚀 Scrap rate:**
 
 - Scrap Rate is Low (0.24%), indicating an efficient production process. However, even small percentages can be costly, especially if high-value products are affected.
 
@@ -83,7 +83,7 @@ Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved
 
 - The  most common reasons for scrap products is related to paint process.
 
-**Manufacturing Time:**
+**🚀 Manufacturing Time:**
 
 - High Late Ratio (31.4%): Over 1 in 3 work orders are late, suggesting systematic inefficiencies rather than isolated incidents.
   
@@ -97,29 +97,29 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ![BI_2 (1)](https://github.com/user-attachments/assets/d546ae97-cfd5-4bde-8754-b5de9b7d8110)
 
-- Scrap Rate shows a positive correlation with order quantity, consistently peaking in the third quarter each year, with a notable surge in 2013. This increase may stem from overloaded production capacity—insufficient machines or labor to meet rising demand, leading to inefficiencies and higher scrap rates.
+- 🚀 Scrap Rate shows a positive correlation with order quantity, consistently peaking in the third quarter each year, with a notable surge in 2013. This increase may stem from overloaded production capacity—insufficient machines or labor to meet rising demand, leading to inefficiencies and higher scrap rates.
   The 2013 peak could be attributed to shifts in production methods, material changes, or workforce adjustments, potentially disrupting efficiency and quality control.
 
-- High-Volume Products (BB Ball Bearing, Seat Stays, Chain Stays, Blades) have low defect rates  --> Identify process control techniques used in these lines that could help high-defect products.
+- 🚀 High-Volume Products (BB Ball Bearing, Seat Stays, Chain Stays, Blades) have low defect rates  --> Identify process control techniques used in these lines that could help high-defect products.
   
-- Most common reasons of high scrap rate:  Seat assembly not as ordered, Drill size too large, Paint process fail name, Trim length too long, Thermoform temperature issue
+- 🚀 Most common reasons of high scrap rate:  Seat assembly not as ordered, Drill size too large, Paint process fail name, Trim length too long, Thermoform temperature issue
 
-- Highest scrap cost by reason: Color incorrect, Trim length too long, Thermoform temperature issue, Drill size too large. These defects result in high financial losses, making them a priority for cost reduction.
+- 🚀 Highest scrap cost by reason: Color incorrect, Trim length too long, Thermoform temperature issue, Drill size too large. These defects result in high financial losses, making them a priority for cost reduction.
 
-- Remarkably, while seat assembly errors contribute the most to scrap rate, their financial impact (cost) is minimal. In contrast, color incorrect defects — despite their low scrap rate — incur the highest costs. Given this, minimizing scrap caused by color incorect should be the top priority for cost reduction.
+- 🚀 Remarkably, while seat assembly errors contribute the most to scrap rate, their financial impact (cost) is minimal. In contrast, color incorrect defects — despite their low scrap rate — incur the highest costs. Given this, minimizing scrap caused by color incorect should be the top priority for cost reduction.
 
 
 ### Dashboard 3 Preview
 
 ![Bi_3 (1)](https://github.com/user-attachments/assets/1d99efe2-c814-46aa-bb94-bd5d83d3396d)
 
-- The late ratio has shown an upward trend from 2011 to 2014, rising from 29.47% in 2011 to 36.65% in 2014. In general, late orders rise with work order volume, suggesting that the system struggles to scale due to factors such as material shortages and overloaded production capacity.
+- 🚀 The late ratio has shown an upward trend from 2011 to 2014, rising from 29.47% in 2011 to 36.65% in 2014. In general, late orders rise with work order volume, suggesting that the system struggles to scale due to factors such as material shortages and overloaded production capacity.
 
-- Scheduled Time remained constant from 2011 to 2014, while Actual Production Time showed a slight decline. Notably, Actual Production Time consistently exceeds Scheduled Time, with the gap widening in March, May, August, and September. This pattern suggests inefficiencies in planning, unexpected disruptions, or capacity constraints affecting production efficiency.
+- 🚀 Scheduled Time remained constant from 2011 to 2014, while Actual Production Time showed a slight decline. Notably, Actual Production Time consistently exceeds Scheduled Time, with the gap widening in March, May, August, and September. This pattern suggests inefficiencies in planning, unexpected disruptions, or capacity constraints affecting production efficiency.
 
-- Nearly 30% of late-delivered orders are caused by delays in production start dates.
+- 🚀 Nearly 30% of late-delivered orders are caused by delays in production start dates.
 
-- The Mountain Product Group having the largest average number of days late in delivery indicates a systemic issue that needs targeted attention. 
+- 🚀 The Mountain Product Group having the largest average number of days late in delivery indicates a systemic issue that needs targeted attention. 
   Possible Causes: More Complex Manufacturing Process, Higher Demand Volume → If mountain bikes are a best-seller, backlog issues might arise.
 
 
@@ -127,23 +127,23 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ![BI_4 (1)](https://github.com/user-attachments/assets/78e91896-375d-4a3b-aad2-5b8ec4d94705)
 
-- Late delivery ratios have increased over time across production stages, meaning the issue is systematic rather than temporary.
+- 🚀 Late delivery ratios have increased over time across production stages, meaning the issue is systematic rather than temporary.
   Possible Causes: Inefficient Resource Allocation, Delays in earlier production stages causing a snowball effect.
 
-- Currently, capacity is almost evenly distributed across production stages, creating imbalances where stages requiring more production time face shortages, while others have excess capacity. As a result, Subassembly, Final Subassembly, and Frame Forming & Welding experience the highest late delivery ratios due to insufficient capacity in these critical stages.
+- 🚀 Currently, capacity is almost evenly distributed across production stages, creating imbalances where stages requiring more production time face shortages, while others have excess capacity. As a result, Subassembly, Final Subassembly, and Frame Forming & Welding experience the highest late delivery ratios due to insufficient capacity in these critical stages.
   
-- In the production stages, Frame Forming and Frame Welding incur significantly higher costs, with production expenses being twice as high as those in the remaining stages.
+- 🚀 In the production stages, Frame Forming and Frame Welding incur significantly higher costs, with production expenses being twice as high as those in the remaining stages.
 
 
 ## V. Final Conclusion & Recommendations 
 
 The analysis has revealed some inefficiencies in manufacturing performance. The most critical problems are:
 
-- **Seasonal Scrap Rate Increase in Q3**: Defects spike between July and September, indicating a seasonal capacity issue due to higher demand during this period.
-- **High Cost of Color Incorrect Defects**: Despite their low scrap rate, color-related defects lead to the highest costs. Reducing these defects should be a top priority for cost reduction.
-- **Rising Late Work Orders (31.4%) Show an Ongoing Trend**: Late orders have consistently increased, signaling a growing issue driven by capacity constraints, inefficient scheduling, and delays in production start times.
+- **Seasonal Scrap Rate Increase in Q3**: Defects surge from July to September, likely due to capacity strain from high demand.
+- **High Cost of Color Incorrect Defects**: Despite low scrap rate, color-related defects incur the highest costs, making their reduction a key priority.
+- **Rising Late Work Orders (31.4%) Show an Ongoing Trend**: Increasing trend of late orders points to capacity constraints, inefficient scheduling, and start-time delays.
 - **Production Time Exceeds Scheduled Time**: Especially in March, May, August, and September, suggesting workload strain and poor scheduling during peak periods.
-- **Mountain Product Group Has the Largest Average Delivery Delay**: Likely caused by product complexity, high demand, and potential supply chain bottlenecks.
+- **Mountain Product group faces the largest Delay**: Likely caused by product complexity, high demand, and potential supply chain issues.
 - **Subassembly and Final Assembly Experience Most Delays**: These stages are most often delayed, potentially due to capacity overloads.
 
 These issues directly impact manufacturing efficiency, delivery performance, and cost control, making them a priority for process improvement.
