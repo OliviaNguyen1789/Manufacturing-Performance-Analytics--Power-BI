@@ -1,4 +1,4 @@
-# [Power BI] Manufacturing Performance Analytics
+# [Power BI] Bicycle Manufacturer dataset - Manufacturing Performance Analytics
 
 
 Author: [Uyen Nguyen]  
