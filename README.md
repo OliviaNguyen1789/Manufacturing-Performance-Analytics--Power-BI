@@ -49,7 +49,6 @@ The insights gained will empower the following stakeholders to make informed str
 | Dim_WorkOrderRouting | Lists only on-time and late orders. Details of location, actual order and delivery time for each work order and product.  |
 | Dim_Location         | Lists each stage in the production process.                                                                               |
 
--  Data relationships:
    ![Schema_manufacturing](https://github.com/user-attachments/assets/0208da0f-b6ce-4ff8-bd7a-19f3b930ed09)
 
 
