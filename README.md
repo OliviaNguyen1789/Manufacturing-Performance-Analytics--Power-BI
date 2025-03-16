@@ -17,28 +17,26 @@ V. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations
 
 ## 📌 Background & Overview
 
-Based on the AdventureWorks database, this project analyzes the manufacturing process of a bicycle manufacturer using Power BI.
-### The objective:
-- Ensure products are delivered on time.
-- Minimize scrapped products.
+### 📖 What is this project about?
+The objective of this project is to analyze the manufacturing process of a bicycle manufacturer using the AdventureWorks database in Power BI. This involves ensuring timely product delivery and minimizing scrapped products. The findings will help optimize production efficiency and improve overall manufacturing performance.
   
-### Stakeholders: 
+### 👤 Who is this project for?   
 The insights gained will empower the following stakeholders to make informed strategic decisions and enhance manufacturing operations:
 - Data analysts & business analysts
 - Production managers
 - Decision-makers & executives
 
-### Business Questions:
-- Why does the company fail to deliver these products on time?
-- What strategies can be implemented to minimize scrapped products?
-  
+### ❓ Business Questions:
+- How efficient is the current manufacturing process?
+- What trends in production efficiency can be identified for optimization?
 
 ## 📂 Dataset Description
 
-- Source: The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
-  To access the dataset, we log in to your Google Cloud Platform, navigate to the BigQuery console and search the project "adventureworks2019".
-  
-- Data Modelling:
+### 🌐 Data Source
+- The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
+- To access the dataset, we log in to your Google Cloud Platform, navigate to the BigQuery console and search the project "adventureworks2019".
+
+## 🔀 Data Modelling:
   There are 5 tables that we will work on it.
 
 | Table                | Type                                                                                                                      |
