@@ -1,3 +1,6 @@
+<img width="1000" alt="Screen Shot 2025-03-16 at 10 50 09 PM" src="https://github.com/user-attachments/assets/e21bbb01-86e6-4f23-9c59-7a2b9d83ea01" />
+
+
 # Project Title: Bicycle Manufacturer dataset - Manufacturing Performance Analytics | Power BI
 
 
