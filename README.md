@@ -36,7 +36,7 @@ The insights gained will empower the following stakeholders to make informed str
 - The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
 - To access the dataset, we log in to your Google Cloud Platform, navigate to the BigQuery console and search the project "adventureworks2019".
 
-## 🔀 Data Modelling:
+### 🔀 Data Modelling:
   There are 5 tables that we will work on it.
 
 | Table                | Type                                                                                                                      |
