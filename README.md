@@ -8,14 +8,14 @@ Tools Used: Power BI
 ---
 
 ## 📑 Table of Contents  
-I. [Introduction](#i-introduction)  
-II. [Dataset Description](#ii-dataset-description)  
-III.[Design Thinking Process](#iii-design-thinking-process)  
-IV.[Power BI Visualization](#iv-power-bi-visualization)  
-V. [Final Conclusion & Recommendations](#v-final-conclusion--recommendations)
+I. [📌 Background & Overview](#-background--overview)  
+II. [📂 Dataset Description](#-dataset-description)  
+III.[🧠 Design Thinking Process](#-design-thinking-process)  
+IV.[📊 Power BI Visualization](#-power-bi-visualization)  
+V. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 
-## I. Introduction
+## 📌 Background & Overview
 
 Based on the AdventureWorks database, this project analyzes the manufacturing process of a bicycle manufacturer using Power BI.
 ### The objective:
@@ -33,7 +33,7 @@ The insights gained will empower the following stakeholders to make informed str
 - What strategies can be implemented to minimize scrapped products?
   
 
-## II. Dataset Description
+## 📂 Dataset Description
 
 - Source: The Bicycle Manufacturer dataset is stored in a public Google BigQuery dataset named "adventureworks2019"
   To access the dataset, we log in to your Google Cloud Platform, navigate to the BigQuery console and search the project "adventureworks2019".
@@ -52,7 +52,7 @@ The insights gained will empower the following stakeholders to make informed str
    ![Schema_manufacturing](https://github.com/user-attachments/assets/0208da0f-b6ce-4ff8-bd7a-19f3b930ed09)
 
 
-## III. Design Thinking Process
+## 🧠 Design Thinking Process
 
 ### 1. Empathize
 
@@ -69,7 +69,7 @@ The insights gained will empower the following stakeholders to make informed str
 Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
 
 
-## IV. Power BI Visualization
+## 📊 Power BI Visualization
 ### Dashboard 1 Preview
 
 ![BI_1 (1)](https://github.com/user-attachments/assets/5581579c-f6b2-46ec-8938-70fb8d87cb50)
@@ -134,7 +134,7 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 - 🚀 In the production stages, Frame Forming and Frame Welding incur significantly higher costs, with production expenses being twice as high as those in the remaining stages.
 
 
-## V. Final Conclusion & Recommendations 
+## 🔎 Final Conclusion & Recommendations 
 
 The analysis has revealed some inefficiencies in manufacturing performance. The most critical problems are:
 
