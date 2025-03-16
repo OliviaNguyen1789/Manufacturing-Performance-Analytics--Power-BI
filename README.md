@@ -52,19 +52,20 @@ The insights gained will empower the following stakeholders to make informed str
 
 ## 🧠 Design Thinking Process
 
-### 1. Empathize
+### 1️⃣ Empathize
 
 <img width="1008" alt="Screen Shot 2025-03-05 at 11 08 14 AM" src="https://github.com/user-attachments/assets/3b9bdd1a-2650-4643-9c88-a2950659d6f0" />
 
-### 2. Define point of view
+### 2️⃣ Define point of view
 
 <img width="1392" alt="Screen Shot 2025-03-05 at 1 26 08 PM" src="https://github.com/user-attachments/assets/94a855f0-af37-42c0-96a0-428b17bee0ba" />
 
-### 3. Ideate
+### 3️⃣ Ideate
 
 <img width="844" alt="Screen Shot 2025-03-05 at 1 59 59 PM" src="https://github.com/user-attachments/assets/1aef1909-7b90-4bae-9624-910c6b31aa4f" />
 
-Next, I proceeded with Step 4 - Prototype and Review multiple times and achieved the final result, which will be presented in the following section as a dashboard.
+4️⃣ Prototype and review  
+Next, I iterated through multiple cycles of prototyping and review to refine the final result, which will be presented in the following section as a dashboard.
 
 
 ## 📊 Power BI Visualization
