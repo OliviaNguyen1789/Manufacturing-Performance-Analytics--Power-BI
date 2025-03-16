@@ -135,39 +135,6 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ## 🔎 Final Conclusion & Recommendations 
 
-The analysis has revealed some inefficiencies in manufacturing performance. The most critical problems are:
-
-- **Seasonal Scrap Rate Increase in Q3**: Defects surge from July to September, likely due to capacity strain from high demand.
-- **High Cost of Color Incorrect Defects**: Despite low scrap rate, color-related defects incur the highest costs, making their reduction a key priority.
-- **Rising Late Work Orders (31.4%) Show an Ongoing Trend**: Increasing trend of late orders points to capacity constraints, inefficient scheduling, and start-time delays.
-- **Production Time Exceeds Scheduled Time**: Especially in March, May, August, and September, suggesting workload strain and poor scheduling during peak periods.
-- **Mountain Product group faces the largest Delay**: Likely caused by product complexity, high demand, and potential supply chain issues.
-- **Subassembly and Final Assembly Experience Most Delays**: These stages are most often delayed, potentially due to capacity overloads.
-
-These issues directly impact manufacturing efficiency, delivery performance, and cost control, making them a priority for process improvement.
-
-### Recommendations:
-
-1. Reduce Scrap products and Scrap cost
-   - Enhance color accuracy with better quality control and calibration tools to reduce cost of defects.
-   - Increase capacity during peak months (July–September) with extra shifts or outsourcing.
-   - Improve forecasting and scheduling to better manage seasonal demand.
-
-2. Optimize Production Scheduling
-  - Optimize scheduling and improve production start timing to avoid delays.
-  - Refine production planning and adjust schedules for high-demand months.
-  - Improve raw material forecasting & supplier reliability to prevent start delays
-
-3. Optimize Capacity Utilization
-  - Balance workloads across stages and apply lean manufacturing principles.
-  - Expand capacity where needed and consider adding shifts or equipment.
-  - Increase capacity in subassembly and final assembly.
-
-4. Address Production Bottlenecks (Mountain Product Group)
-  - Streamline production for mountain products, potentially with dedicated lines.
-  - Address supply chain bottlenecks and prioritize materials for mountain bikes.
-
-
 | Issue                                                                                                                                                              | Recommended Action            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------|
 | Seasonal Scrap Rate Increase in Q3 – Likely due to capacity strain from high demand.                                                                               | Expand capacity during peak months (July–September) through additional shifts or outsourcing. Enhance forecasting and scheduling to better manage seasonal demand.                           |
