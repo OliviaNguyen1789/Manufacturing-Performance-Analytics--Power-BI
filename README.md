@@ -64,7 +64,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 <img width="844" alt="Screen Shot 2025-03-05 at 1 59 59 PM" src="https://github.com/user-attachments/assets/1aef1909-7b90-4bae-9624-910c6b31aa4f" />
 
-4️⃣ Prototype and review  
+### 4️⃣ Prototype and review  
 Next, I iterated through multiple cycles of prototyping and review to refine the final result, which will be presented in the following section as a dashboard.
 
 
