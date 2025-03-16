@@ -1,4 +1,4 @@
-# Bicycle Manufacturer dataset - Manufacturing Performance Analytics | Power BI
+# Project Title: Bicycle Manufacturer dataset - Manufacturing Performance Analytics | Power BI
 
 
 Author: [Uyen Nguyen]  
