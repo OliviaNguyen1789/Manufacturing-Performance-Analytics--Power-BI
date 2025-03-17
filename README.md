@@ -74,7 +74,7 @@ Next, I iterated through multiple cycles of prototyping and review to refine the
 ## 📊 Power BI Visualization
 ### Dashboard 1 Preview
 
-![BI_1 (1)](https://github.com/user-attachments/assets/5581579c-f6b2-46ec-8938-70fb8d87cb50)
+![Bi_1](https://github.com/user-attachments/assets/99223445-35a1-427a-bfee-51907127e3c9)
 
 **🚀 Scrap rate:**
 
@@ -96,7 +96,8 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 2 Preview
 
-![BI_2 (1)](https://github.com/user-attachments/assets/d546ae97-cfd5-4bde-8754-b5de9b7d8110)
+![Bi_2](https://github.com/user-attachments/assets/b6d5c3cf-ee1a-4f6d-aaf1-c3b2c782fcb6)
+
 
 - 🚀 Scrap Rate shows a positive correlation with order quantity, consistently peaking in the third quarter each year, with a notable surge in 2013. This increase may stem from overloaded production capacity—insufficient machines or labor to meet rising demand, leading to inefficiencies and higher scrap rates.
   The 2013 peak could be attributed to shifts in production methods, material changes, or workforce adjustments, potentially disrupting efficiency and quality control.
@@ -112,7 +113,8 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 3 Preview
 
-![Bi_3 (1)](https://github.com/user-attachments/assets/1d99efe2-c814-46aa-bb94-bd5d83d3396d)
+![Bi_3](https://github.com/user-attachments/assets/49786f6e-89d2-4726-bc9d-c40f9d079c5a)
+
 
 - 🚀 The late ratio has shown an upward trend from 2011 to 2014, rising from 29.47% in 2011 to 36.65% in 2014. In general, late orders rise with work order volume, suggesting that the system struggles to scale due to factors such as material shortages and overloaded production capacity.
 
@@ -126,7 +128,8 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 4 Preview
 
-![BI_4 (1)](https://github.com/user-attachments/assets/78e91896-375d-4a3b-aad2-5b8ec4d94705)
+![Bi_4](https://github.com/user-attachments/assets/2b1d2229-ed3d-43a1-ac04-1ae606972956)
+
 
 - 🚀 Late delivery ratios have increased over time across production stages, meaning the issue is systematic rather than temporary.
   Possible Causes: Inefficient Resource Allocation, Delays in earlier production stages causing a snowball effect.
