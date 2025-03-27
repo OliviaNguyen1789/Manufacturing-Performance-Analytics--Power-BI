@@ -4,7 +4,7 @@
 # Project Title: Bicycle Manufacturer dataset - Manufacturing Performance Analytics | Power BI
 
 
-Author: [Uyen Nguyen]  
+Author: [Olivia Nguyen]  
 Date: November 2024  
 Tools Used: Power BI 
 
