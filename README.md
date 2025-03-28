@@ -74,7 +74,8 @@ Next, I iterated through multiple cycles of prototyping and review to refine the
 ## 📊 Power BI Visualization
 ### Dashboard 1 Preview
 
-![Bi_1](https://github.com/user-attachments/assets/99223445-35a1-427a-bfee-51907127e3c9)
+![bi1](https://github.com/user-attachments/assets/f209033e-69c1-4145-8f3f-0188d9c9e331)
+
 
 **🚀 Scrap rate:**
 
@@ -96,7 +97,8 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 2 Preview
 
-![Bi_2](https://github.com/user-attachments/assets/b6d5c3cf-ee1a-4f6d-aaf1-c3b2c782fcb6)
+![bi2](https://github.com/user-attachments/assets/194588a1-e7c8-475e-b61d-81a4fdd07a30)
+
 
 
 - 🚀 Scrap Rate shows a positive correlation with order quantity, consistently peaking in the third quarter each year, with a notable surge in 2013. This increase may stem from overloaded production capacity—insufficient machines or labor to meet rising demand, leading to inefficiencies and higher scrap rates.
@@ -113,7 +115,8 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 3 Preview
 
-![Bi_3](https://github.com/user-attachments/assets/49786f6e-89d2-4726-bc9d-c40f9d079c5a)
+![bi3](https://github.com/user-attachments/assets/0aafcb59-cfaf-4cdd-9aaf-cbad7abc84c6)
+
 
 
 - 🚀 The late ratio has shown an upward trend from 2011 to 2014, rising from 29.47% in 2011 to 36.65% in 2014. In general, late orders rise with work order volume, suggesting that the system struggles to scale due to factors such as material shortages and overloaded production capacity.
@@ -128,7 +131,8 @@ Potential Causes: Poor production planning, material shortages, Overloaded produ
 
 ### Dashboard 4 Preview
 
-![Bi_4](https://github.com/user-attachments/assets/2b1d2229-ed3d-43a1-ac04-1ae606972956)
+![bi4](https://github.com/user-attachments/assets/c87f1b1c-2865-4346-8aa9-9d13e105279c)
+
 
 
 - 🚀 Late delivery ratios have increased over time across production stages, meaning the issue is systematic rather than temporary.
