@@ -2,7 +2,7 @@
 
 
 
-# Project Title: Bicycle Manufacturer dataset - Manufacturing Performance Analytics | Power BI
+# Project Title: Manufacturing Performance Analytics | Power BI
 
 
 Author: [Olivia Nguyen]  
@@ -14,7 +14,7 @@ Tools Used: Power BI
 ## 📑 Table of Contents  
 I. [📌 Background & Overview](#-background--overview)  
 II. [📊 Power BI Visualization](#-power-bi-visualization)  
-III. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+III. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations) 
 IV. [📂 Dataset Description](#-dataset-description)  
 V.[🧠 Design Thinking Process](#-design-thinking-process)  
 
@@ -24,6 +24,7 @@ V.[🧠 Design Thinking Process](#-design-thinking-process)
 
 ### 📖 What is this project about?
 The objective of this project is to analyze the manufacturing process of a bicycle manufacturer using the AdventureWorks database in Power BI. This involves ensuring timely product delivery and minimizing scrapped products. The findings will help optimize production efficiency and improve overall manufacturing performance.
+
   
 ### 👤 Who is this project for?   
 The insights gained will empower the following stakeholders to make informed strategic decisions and enhance manufacturing operations:
