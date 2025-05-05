@@ -46,6 +46,12 @@ The insights gained will empower the following stakeholders to make informed str
 - 🚀 **Scrap Rate remains low (0.24%)**, reflecting high production quality. However, scrap slightly increases with volume, hinting at quality pressure during peak production.
 - 🚀 **Frame Forming & Welding** are the most cost-intensive stages — key targets for cost optimization.
 - 🚀 **Manufacturing Time** shows a high late delivery rate (31.4%). Delays scale with demand, indicating systemic inefficiencies. Subassembly and Final Assembly are the most delay-prone stages.
+
+- “Cutting” – used in 900 work orders
+
+“Final Assembly” – used in 500 work orders
+
+“Painting” – used in 150 work orders
   
 
 ### Dashboard 2 Preview
