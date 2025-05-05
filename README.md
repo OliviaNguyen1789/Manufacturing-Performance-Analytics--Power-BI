@@ -40,42 +40,33 @@ The insights gained will empower the following stakeholders to make informed str
 ## 📊 Power BI Visualization
 ### Dashboard 1 Preview
 
-![image](https://github.com/user-attachments/assets/8eb66975-8e31-4f3e-9288-7040a6a56f12)
+![image](https://github.com/user-attachments/assets/1f18f946-5240-4964-868d-46db1b1a2e68)
 
-- 🚀 **Order Quantity & Work Orders** surged from 2011 to 2013, then dropped sharply in 2014 — showing scalability but also volatility in demand.
-- 🚀 **Scrap Rate remains low (0.24%)**, reflecting high production quality. However, scrap slightly increases with volume, hinting at quality pressure during peak production.
-- 🚀 **Frame Forming & Welding** are the most cost-intensive stages — key targets for cost optimization.
-- 🚀 **Manufacturing Time** shows a high late delivery rate (31.4%). Delays scale with demand, indicating systemic inefficiencies. Subassembly and Final Assembly are the most delay-prone stages.
 
-- “Cutting” – used in 900 work orders
-
-“Final Assembly” – used in 500 work orders
-
-“Painting” – used in 150 work orders
-  
+- 🚀 **Order Volume & Work Orders** surged from 2011 to 2013, then dropped sharply in 2014 — showing scalability but also volatility in demand.  
+- 🚀 **Manufacturing Time** shows a high late delivery rate (31.4%). Delays scale with demand, indicating systemic inefficiencies.  
+- 🚀 **Production Stage Utilization:** Subassembly and Final Assembly are the most frequently executed stages, suggesting these are critical bottlenecks or resource-intensive phases in the manufacturing process. 
+- 🚀 **Top-Ordered Products**: The most frequently ordered items include BB Ball Bearing, Seat Stays, Blade, Fork End, and Chain Stays—indicating core components in high demand and potential focus areas for inventory and production optimization.  
 
 ### Dashboard 2 Preview
 
-![image](https://github.com/user-attachments/assets/87da3950-43f8-45e8-9d21-e42311e19ae3)
+![image](https://github.com/user-attachments/assets/f9cb68a7-fcf5-4b49-9bc1-915df9c33ec7)
 
-- 🚀 **Scrap rate peaks in Q3** each year, likely due to seasonal demand spikes. Overloaded capacity (limited labor or machinery) may drive inefficiencies and quality issues.
-- 🚀 **Top scrap reasons by frequency**: Seat assembly errors, oversized drill holes, paint failures, incorrect trim lengths, and thermoform temperature issues.
+- 🚀 **Scrap Rate remains low (0.24%)**, reflecting high production quality. However, scrap slightly increases with volume, hinting at quality pressure during peak production.  
+- 🚀 **Scrap rate peaks in Q3** each year, likely due to seasonal demand spikes. Overloaded capacity (limited labor or machinery) may drive inefficiencies and quality issues.  
+- 🚀 **Top scrap reasons by frequency**: Seat assembly errors, oversized drill holes, paint failures, incorrect trim lengths, and thermoform temperature issues.  
 - 🚀 **Top scrap reasons by cost**: Color errors, trim issues, thermoforming, and drilling — these defects have the highest financial impact, making them critical for cost reduction.
-- 🚀 **Seat assembly errors** are the most frequent but **low cost**, while **color errors** are rare yet **most costly** — prioritizing color accuracy offers the greatest cost-saving potential.
-
+- 🚀 **Seat assembly errors** are the most frequent but **low cost**, while **color errors** are rare yet **most costly** — prioritizing color accuracy offers the greatest cost-saving potential.  
 
 
 ### Dashboard 3 Preview
-![image](https://github.com/user-attachments/assets/8037bab5-9ef6-424b-89a7-9c189132b4cb)
 
+![image](https://github.com/user-attachments/assets/af6098ca-1589-467f-9e5d-0c84463ab00a)
 
-🚀 **Scheduled time stayed flat**, but **actual production time** remained **consistently higher**, with larger gaps in March, May, August, and September — pointing to inefficient planning or seasonal capacity constraints.
+- 🚀 **Production Planning Gaps:** While scheduled production time remains flat, actual production time consistently exceeds it, especially in March, May, August, and September. This suggests inefficient planning and possible seasonal capacity constraints that require closer monitoring and resource adjustments.
+- 🚀 **Stage-Level Time Analysis:** Stages like Frame Forming, Final Assembly, Frame Welding, and Subassembly have a higher average time spent compared to Paint and Polish-related stages. With Subassembly and Final Assembly also being the most frequently executed, they contribute to significantly high total working hours, highlighting potential bottlenecks in the production line.
+- 🚀 **Product Group Performance:** The Mountain bike group experiences the highest average delivery delay, likely due to complex assembly processes or higher demand. This signals a need for targeted process improvements and possibly dedicated resources to address group-specific challenges.
 
-🚀 The **Mountain product group** shows the **highest average delay**, likely due to complex manufacturing processes or higher demand, signaling the need for targeted process improvements.
-
-🚀 **Late delivery ratios rose across all stages**, confirming a system-wide issue rather than isolated delays. Root causes may include inefficient resource allocation or cascading delays from earlier stages.
-
-🚀 **Capacity is currently evenly distributed**, but stages like Subassembly, Final Assembly, and Frame Forming & Welding require more time — leading to bottlenecks and late starts. These stages face the highest delay ratios and are critical targets for capacity rebalancing.
 
 ## 🔎 Final Conclusion & Recommendations 
 
