@@ -52,7 +52,7 @@ The insights gained will empower the following stakeholders to make informed str
 
 - 🚀 **Scrap Rate remains low (0.24%)**, reflecting high production quality. However, scrap slightly increases with volume, hinting at quality pressure during peak production.  
 - 🚀 **Scrap rate peaks in Q3** each year, likely due to seasonal demand spikes. Overloaded capacity (limited labor or machinery) may drive inefficiencies and quality issues.  
-- 🚀 **Top scrap reasons by frequency**: Seat assembly errors, oversized drill holes, paint failures, incorrect trim lengths, and thermoform temperature issues.  
+- 🚀 **Top scrap reasons**: Seat assembly errors, oversized drill holes, paint failures, incorrect trim lengths, and thermoform temperature issues.  
 - 🚀 **Top scrap reasons by cost**: Color errors, trim issues, thermoforming, and drilling — these defects have the highest financial impact, making them critical for cost reduction.
 - 🚀 **Seat assembly errors** are the most frequent but **low cost**, while **color errors** are rare yet **most costly** — prioritizing color accuracy offers the greatest cost-saving potential.  
 
