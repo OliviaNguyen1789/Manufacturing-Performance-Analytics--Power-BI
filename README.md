@@ -40,12 +40,10 @@ The insights gained will empower the following stakeholders to make informed str
 ## 📊 Power BI Visualization
 ### Dashboard 1 Preview
 
-![image](https://github.com/user-attachments/assets/1f18f946-5240-4964-868d-46db1b1a2e68)
-
+![image](https://github.com/user-attachments/assets/6d4ef29a-8a84-4c11-9d0b-69b56ea54733)
 
 - 🚀 **Order Volume & Work Orders** surged from 2011 to 2013, then dropped sharply in 2014 — showing scalability but also volatility in demand.  
-- 🚀 **Manufacturing Time** shows a high late delivery rate (31.4%). Delays scale with demand, indicating systemic inefficiencies.  
-- 🚀 **Production Stage Utilization:** Subassembly and Final Assembly are the most frequently executed stages, suggesting these are critical bottlenecks or resource-intensive phases in the manufacturing process. 
+- 🚀 **Manufacturing Time** shows a high late delivery rate (31.4%). Delays scale with demand during the time frame given, indicating systemic inefficiencies.  
 - 🚀 **Top-Ordered Products**: The most frequently ordered items include BB Ball Bearing, Seat Stays, Blade, Fork End, and Chain Stays—indicating core components in high demand and potential focus areas for inventory and production optimization.  
 
 ### Dashboard 2 Preview
@@ -67,7 +65,9 @@ The insights gained will empower the following stakeholders to make informed str
 - 🚀 **Stage-Level Time Analysis:** Stages like Frame Forming, Final Assembly, Frame Welding, and Subassembly have a higher average time spent compared to Paint and Polish-related stages. With Subassembly and Final Assembly also being the most frequently executed, they contribute to significantly high total working hours, highlighting potential bottlenecks in the production line.
 - 🚀 **Product Group Performance:** The Mountain bike group experiences the highest average delivery delay, likely due to complex assembly processes or higher demand. This signals a need for targeted process improvements and possibly dedicated resources to address group-specific challenges.
 
+- 🚀 **Production Stage Utilization:** Subassembly and Final Assembly are the most frequently executed stages, suggesting these are critical bottlenecks or resource-intensive phases in the manufacturing process.
 
+  
 ## 🔎 Final Conclusion & Recommendations 
 
 | Issue                                                                                                                                                              | Recommended Action            |
