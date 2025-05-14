@@ -48,7 +48,8 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### Dashboard 2 Preview
 
-![image](https://github.com/user-attachments/assets/f9cb68a7-fcf5-4b49-9bc1-915df9c33ec7)
+![image](https://github.com/user-attachments/assets/c407f71e-619d-4b15-ae99-c8462d25e63b)
+
 
 - 🚀 **Scrap Rate remains low (0.24%)**, reflecting high production quality. However, scrap slightly increases with volume, hinting at quality pressure during peak production.  
 - 🚀 **Scrap rate peaks in Q3** each year, likely due to seasonal demand spikes. Overloaded capacity (limited labor or machinery) may drive inefficiencies and quality issues.  
@@ -59,13 +60,13 @@ The insights gained will empower the following stakeholders to make informed str
 
 ### Dashboard 3 Preview
 
-![image](https://github.com/user-attachments/assets/af6098ca-1589-467f-9e5d-0c84463ab00a)
+![image](https://github.com/user-attachments/assets/564e902b-ea39-4997-bdd9-41b368427837)
+
 
 - 🚀 **Production Planning Gaps:** While scheduled production time remains flat, actual production time consistently exceeds it, especially in March, May, August, and September. This suggests inefficient planning and possible seasonal capacity constraints that require closer monitoring and resource adjustments.
 - 🚀 **Stage-Level Time Analysis:** Stages like Frame Forming, Final Assembly, Frame Welding, and Subassembly have a higher average time spent compared to Paint and Polish-related stages. With Subassembly and Final Assembly also being the most frequently executed, they contribute to significantly high total working hours, highlighting potential bottlenecks in the production line.
 - 🚀 **Product Group Performance:** The Mountain bike group experiences the highest average delivery delay, likely due to complex assembly processes or higher demand. This signals a need for targeted process improvements and possibly dedicated resources to address group-specific challenges.
 
-- 🚀 **Production Stage Utilization:** Subassembly and Final Assembly are the most frequently executed stages, suggesting these are critical bottlenecks or resource-intensive phases in the manufacturing process.
 
   
 ## 🔎 Final Conclusion & Recommendations 
